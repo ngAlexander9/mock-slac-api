@@ -7,5 +7,23 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "areagroups": [
+    {
+      "id": 1,
+      "title": "ACR",
+    },
+    {
+      "id": 2,
+      "title": "BDE",
+    },
+    {
+      "id": 3,
+      "title": "BSY",
+    },
+    {
+      "id": 4,
+      "title": "BSY PUMP STATIONS",
+    },
+  ]
 }
