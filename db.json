@@ -11,19 +11,19 @@
   "areagroups": [
     {
       "id": 1,
-      "title": "ACR",
+      "title": "ACR"
     },
     {
       "id": 2,
-      "title": "BDE",
+      "title": "BDE"
     },
     {
       "id": 3,
-      "title": "BSY",
+      "title": "BSY"
     },
     {
       "id": 4,
-      "title": "BSY PUMP STATIONS",
+      "title": "BSY PUMP STATIONS"
     }
   ]
 }
